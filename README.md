@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
-- <b>Active Directory Homelab</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Homelab](https://github.com/ASmith155/ActiveDirectoryLab)
 
 <h2>📺Certifications </h2>
 
