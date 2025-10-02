@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
 - [Active Directory Homelab](https://github.com/ASmith155/ActiveDirectoryLab)
-
+- [Implementing OsTicket Homelab](https://github.com/ASmith155/ImplementingOsTicket)
 <h2>📺Certifications </h2>
 
 - [Comptia Security+](https://imgur.com/a/j8JBlfa)
